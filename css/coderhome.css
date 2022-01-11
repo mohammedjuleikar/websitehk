@@ -1,0 +1,147 @@
+*{
+	margin:0;
+	padding:0
+}
+.oi{
+	font-size:21px;
+	color:red
+}
+.oi:hover{
+	font-size:21px;
+	color:black;
+	
+}
+.oii{
+	color:black;
+	font-size:21px
+}
+
+
+.ops11 img{
+	width:68px;
+	height:60px;
+	padding:0
+
+}
+
+.menu{
+	background-color:#88c2ff;
+	
+	
+}
+.homecontact{
+	font-size:20px;
+	color:black;
+	float:left;
+	margin-left:450px;
+}
+
+.homebutton{
+	float:right;
+	margin-right:120px;
+}
+.homebutton:hover{
+	background-color:yellow;
+	color:blue
+}
+.hservice1{
+	font-size:33px;
+	color:blue;
+	margin-bottom:30px;
+	margin-top:50px
+}
+.batpar{
+	background-color:orange;
+	margin-left:277px;
+width:270px;
+height:481px;
+}
+.hpic img{
+	margin-left:88px;
+	width:100px;
+	height:100px;
+}
+.webserver{
+	font-size:27px;
+}
+.webserver b{
+	font-size:30px;
+}
+.hweb{
+	font-size:22px;
+}
+
+.hc{
+	margin-left:53px;
+	width:150px;
+	height:30px;
+	text-align:center;
+}
+
+.batpar1{
+	background-color:#5a484b;
+	margin-left:60px;
+width:290px;
+height:520px;
+}
+
+
+.hpic1 img{
+	margin-left:88px;
+	width:100px;
+	height:100px;
+}
+.webserver1{
+	font-size:27px;
+	color:orange
+}
+.webserver1 b{
+	font-size:30px;
+	color:yellow
+}
+.hweb1{
+	font-size:22px;
+	color:orange;
+}
+
+.hc1{
+	margin-left:53px;
+	width:150px;
+	height:30px;
+	text-align:center;
+}
+.ser{
+	width:200px;
+	height:200px;
+	background-color:orange;
+	margin-left:20px;
+	margin-top:20px;
+	border-radius:20px;
+}
+.ser:hover{
+	background-color:black
+}
+.ser img{
+	width:129px;
+	height:96px;
+	margin-left:20px;
+}
+.wi{
+	font-size:24px;
+	margin-top:20px;
+	margin-left:20px;
+	padding-top:20px;
+}
+
+.other-service{
+background-image:url("../image/112.png");
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-color:green
+}
+.jani{
+	font-size:34px;
+	color:orange;
+
+
+}

@@ -1,0 +1,75 @@
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) { 
+	/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) { 
+		.jani1{
+			margin-left:0%;
+			margin-right:0%;
+		}
+.ecom img{
+	width:40%;
+	height:200px;
+	margin-left:20%;
+	margin-right:20%;
+ }
+ .ecom img:hover{
+ 	width:41%;
+ 	height:203px;
+ 	margin-left:20%;
+ 	margin-right:20%;
+ }
+.ops{
+	font-size:19px;
+	color:red;
+	font-family:araial;
+	text-align:center;
+	margin-right:20%}
+	.ops1{
+	text-align:center;
+	color:red;
+	line-height:1px;
+	margin-right:20%
+}
+.wow2{
+font-family:arial;
+font-size:40px;
+color:#d8f921;
+padding-top:10%;
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) { 
+	.jani1{
+			margin-left:0%;
+			margin-right:0%;
+		}
+	.jani1pera{
+		margin-right:140px;
+
+	}
+	.jani1img{
+		margin-left:30px;
+	}
+	.wow2{
+font-family:arial;
+font-size:40px;
+color:#d8f921;
+padding-top:10%;
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) { 
+	.my-card {
+		margin-top: 15px;
+	}
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
